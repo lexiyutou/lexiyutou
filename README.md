@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**lexiyutou/lexiyutou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Xiaohang Yu 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a PhD student at EPFL working on 3D/4D reconstruction, vision-based animal behavior analysis, and shape representation.
+
+- 🔬 Research interests: 3D/4D reconstruction, animal behavior, animal pose estimation
+- 🧠 Currently working on: neural implicit representations for animal-environment interaction
+
+## 📌 Selected Projects
+
+- [ImmsiveNeRF](https://ieeexplore.ieee.org/document/10648850): Hybrid Radiance Fields for Unbounded Immersive Light Field Reconstruction
+- [Super-NeRF](https://ieeexplore.ieee.org/document/10742507): View-consistent Detail Generation for NeRF Super-resolution
+- [Den-SOFT](https://arxiv.org/abs/2403.09973): Dense Space-Oriented Light Field DataseT for 6-DOF Immersive Experience
+
+## 📫 How to reach me
+
+- Email: xiaohang.yu@epfl.ch
+- Website: [lexiyutou.github.io](https://lexiyutou.github.io)
+
+---
+
+![](https://komarev.com/ghpvc/?username=lexiyutou&label=Profile%20views&color=0e75b6&style=flat)
+
