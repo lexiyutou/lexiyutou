@@ -1,12 +1,9 @@
-## Hi there 👋
-
 
 # 👋 Hi, I'm Xiaohang Yu 
 
-I'm a PhD student at EPFL working on 3D/4D reconstruction, vision-based animal behavior analysis, and shape representation.
+I'm a PhD student at EPFL, Switzerland.
 
 - 🔬 Research interests: 3D/4D reconstruction, animal behavior, animal pose estimation
-- 🧠 Currently working on: neural implicit representations for animal-environment interaction
 
 ## 📌 Selected Projects
 
