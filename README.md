@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Xiaohang Yu 
 
-I'm a PhD student at EPFL, Switzerland.
+I'm a PhD student at [Mathis Lab of Adaptive Intelligence](https://www.mackenziemathislab.org/), EPFL, Switzerland.
 
 - 🔬 Research interests: 3D/4D reconstruction, animal behavior, animal pose estimation
 
