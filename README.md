@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Xiaohang Yu 
+# 👋 Hi, I'm Xiaohang 
 
 I'm a PhD student at [Mathis Lab of Adaptive Intelligence](https://www.mackenziemathislab.org/), EPFL, Switzerland.
 
