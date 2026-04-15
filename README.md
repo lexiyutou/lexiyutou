@@ -7,7 +7,7 @@ I'm a PhD student at [M-Lab of Adaptive Intelligence](https://www.mackenziemathi
 
 ## 📌 Selected Projects
 
-- [FMPose3D](https://github.com/AdaptiveMotorControlLab/FMPose3D):Monocular 3D pose estimation via flow matching
+- [FMPose3D](https://github.com/AdaptiveMotorControlLab/FMPose3D): Monocular 3D pose estimation via flow matching
 - [ImmsiveNeRF](https://ieeexplore.ieee.org/document/10648850): Hybrid Radiance Fields for Unbounded Immersive Light Field Reconstruction
 - [Super-NeRF](https://ieeexplore.ieee.org/document/10742507): View-consistent Detail Generation for NeRF Super-resolution
 - [Den-SOFT](https://arxiv.org/abs/2403.09973): Dense Space-Oriented Light Field DataseT for 6-DOF Immersive Experience
